@@ -11,10 +11,10 @@ This project I wrote alone using a K-nearest-neighbor algorithm to scan pictures
 with the handwritten set. I was able to achieve above a 60% accuracy rating from the handwritten set, but I am sure the data wasn't as accurate because I wrote my numbers on paper much smaller and thinner 
 than I had liked.
 
-###Datamining_Cluster.py:
+### Datamining_Cluster.py:
 Using Hierarchical clustering, this program was written to take in a large version of the Iris dataset, specifcally the sepal lengths, and cluster the min and max distances of them all to predict the unknown
 lengths.
 
-###irisentropy.py:
+### irisentropy.py:
 Using Nodes and a Decision Tree, this program also utilized the iris dataset to predict if the unknown flowers were Iris' or not. This version also employed entropy for the first time, meaning the Decission Tree
 was able to prune itself for more desirable results with up to a 96% accuracy rating.
