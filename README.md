@@ -1,5 +1,5 @@
 # Datamining-Algorithms
-## Collection of programs I wrote for a datamining course
+## Collection of programs I wrote to further my understanding of machine learning algorithms
 Unfortunately I no longer have access to the original data files associated with each program, but the code itself is too good to not share. 
 
 ### Food_Pantry_Data.py:
